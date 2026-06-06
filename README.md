@@ -4,12 +4,24 @@
   <p>
     <a href="https://www.synovalabs.tech"><img src="https://img.shields.io/badge/Website-synovalabs.tech-0B1220?style=for-the-badge&logo=google-chrome&logoColor=00D5FF" alt="Website" /></a>
     <a href="https://github.com/labssynova-coder?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00D5FF" alt="Projects" /></a>
-    <img src="https://img.shields.io/badge/Bordj_Bou_Arreridj-Algeria-0B1220?style=for-the-badge&logo=googlemaps&logoColor=00D5FF" alt="Location" />
+    
+    <img src="https://komarev.com/ghpvc/?username=labssynova-coder&label=Profile%20Views&color=00d5ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Bordj_Bou_Arreridj-Algeria-0B1220?style=for-the-badge&logo=googlemaps&logoColor=00D5FF" alt="Location" />
   </p>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=700&color=00D5FF&center=true&vCenter=true&width=850&lines=We+build+software+that+looks+good+and+works+hard.;SaaS+products+%E2%80%A2+E-commerce+%E2%80%A2+Desktop+apps+%E2%80%A2+APIs;From+idea+to+demo+to+production-ready+release." alt="Typing SVG" />
   </p>
+</div>
+
+---
+
+<div align="center">
+
+### Building practical software for real businesses
+
+<img src="https://github-profile-trophy.vercel.app/?username=labssynova-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+
 </div>
 
 ---
@@ -44,7 +56,7 @@ Our style is direct: understand the business, design the workflow, build the pro
 
 ---
 
-## Featured Products
+## Featured Products & Live Demos
 
 <table>
 <tr>
@@ -89,7 +101,19 @@ Our style is direct: understand the business, design the workflow, build the pro
 </td>
 </tr>
 </table>
+<div align="center">
 
+<a href="https://github.com/labssynova-coder/stockpulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=stockpulse&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="StockPulse repository card" />
+</a>
+<a href="https://github.com/labssynova-coder/LJS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=LJS&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="LJS repository card" />
+</a>
+<a href="https://github.com/labssynova-coder/benshop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=benshop&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="BENSHOP repository card" />
+</a>
+
+</div>
 ---
 
 ## Tech We Use
@@ -147,6 +171,13 @@ We build tools that feel simple for non-technical users while still giving owner
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=labssynova-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&icon_color=2F80ED&text_color=E5E7EB" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labssynova-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB" alt="Top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=labssynova-coder&theme=tokyonight&hide_border=true&background=0B1220&ring=00D5FF&fire=2F80ED&currStreakLabel=E5E7EB" alt="GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=labssynova-coder&bg_color=0B1220&color=E5E7EB&line=00D5FF&point=2F80ED&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -161,4 +192,6 @@ We build tools that feel simple for non-technical users while still giving owner
 [Website](https://www.synovalabs.tech) · [GitHub Projects](https://github.com/labssynova-coder?tab=repositories) · [Live Portfolio](https://www.synovalabs.tech)
 
 </div>
+
+
 
