@@ -1,8 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/synova-labs-logo.png" width="180" alt="Synova Labs logo" />
-
-  <h1>Synova Labs</h1>
-  <h3>Full-stack software studio building SaaS, e-commerce, dashboards, APIs, and offline business tools.</h3>
+  <img src="assets/synova-labs-banner.svg" width="100%" alt="Synova Labs — Full-stack software studio" />
 
   <p>
     <a href="https://www.synovalabs.tech"><img src="https://img.shields.io/badge/Website-synovalabs.tech-0B1220?style=for-the-badge&logo=google-chrome&logoColor=00D5FF" alt="Website" /></a>
@@ -17,6 +14,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## Studio Snapshot
 
 **Synova Labs** is a full-stack development studio based in **Bordj Bou Arreridj, Algeria**.
@@ -25,59 +26,118 @@ We build practical digital products for small businesses and modern teams: store
 
 Our style is direct: understand the business, design the workflow, build the product, test the flows, document the handoff, and make it demo-ready.
 
-**Core focus:** SaaS MVPs, e-commerce systems, inventory and sales tools, admin dashboards, APIs, desktop apps, GitHub Pages demos, documentation, and QA.
+</td>
+<td width="42%" valign="top">
+
+## Focus Areas
+
+- SaaS MVPs and product dashboards
+- E-commerce storefronts and admin panels
+- Inventory, sales, and internal business tools
+- REST APIs, auth, databases, and integrations
+- GitHub Pages demos and release-ready docs
+- Desktop apps with local-first/offline storage
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Products & Live Demos
+## Featured Products
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### StockPulse
 
-Offline inventory and sales desktop MVP for small businesses.
+**Offline inventory and sales desktop MVP** for small businesses.
 
-- Products, stock, purchases, sales, reports, alerts, and audit trail
-- Electron + TypeScript + SQLite local-first desktop app
-- Live browser demo and Windows installer release
+- Products, stock, purchases, sales
+- Reports, alerts, audit trail
+- Electron + TypeScript + SQLite
 
-[Live Demo](https://labssynova-coder.github.io/stockpulse/) · [Repository](https://github.com/labssynova-coder/stockpulse) · [Installer](https://github.com/labssynova-coder/stockpulse/releases/tag/v1.0.0)
+[Live Demo](https://labssynova-coder.github.io/stockpulse/) · [Repo](https://github.com/labssynova-coder/stockpulse) · [Installer](https://github.com/labssynova-coder/stockpulse/releases/tag/v1.0.0)
+
+</td>
+<td width="33%" valign="top">
 
 ### LJS — Luxury Jewelry Shop
 
-Modern Django e-commerce platform with a polished storefront and admin experience.
+**Modern Django e-commerce platform** with storefront and admin experience.
 
-- Product catalog, cart, wishlist, checkout, blog, and policy pages
-- Jazzmin admin panel and golden luxury UI theme
-- Tested Django backend with static storefront/admin demos
+- Catalog, cart, wishlist, checkout
+- Blog and policy pages
+- Jazzmin admin + 62 tests
 
-[Storefront Demo](https://labssynova-coder.github.io/LJS/) · [Admin Demo](https://labssynova-coder.github.io/LJS/admin/) · [Repository](https://github.com/labssynova-coder/LJS)
+[Storefront](https://labssynova-coder.github.io/LJS/) · [Admin](https://labssynova-coder.github.io/LJS/admin/) · [Repo](https://github.com/labssynova-coder/LJS)
+
+</td>
+<td width="33%" valign="top">
 
 ### BENSHOP Chaussettes
 
-Multilingual e-commerce system for SARL BENSHOP Chaussettes.
+**Multilingual e-commerce system** for SARL BENSHOP Chaussettes.
 
-- Storefront, cart, order flow, WhatsApp ordering, and admin dashboard
-- Express backend, static demo, and multilingual customer experience
-- Built for a real small-business product catalog
+- Storefront, cart, orders
+- Admin dashboard
+- WhatsApp ordering flow
 
-[Storefront Demo](https://labssynova-coder.github.io/benshop/) · [Admin Demo](https://labssynova-coder.github.io/benshop/admin/) · [Repository](https://github.com/labssynova-coder/benshop)
+[Storefront](https://labssynova-coder.github.io/benshop/) · [Admin](https://labssynova-coder.github.io/benshop/admin/) · [Repo](https://github.com/labssynova-coder/benshop)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech We Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,html,css,tailwind,sqlite,postgres,prisma,electron,docker,git,github,vercel,figma&perline=10" alt="Tech stack icons" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,html,css,tailwind,sqlite,postgres,prisma,electron,docker,git,github,vercel,figma&perline=10" alt="Tech stack icons" />
+
 </div>
 
 ---
 
-## How We Work
+## What Makes Our Work Different
 
-- **Product-first thinking** — features are shaped around real business workflows, not just screens.
-- **Demo-ready delivery** — projects include live previews, screenshots, installers, docs, or testing notes when possible.
-- **Full-stack ownership** — frontend, backend, database, deployment, documentation, and QA move together.
-- **Small-business UX** — interfaces stay simple for non-technical users while giving owners useful control.
-- **Release discipline** — demos, repo READMEs, release assets, and deployment notes are part of the handoff.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Product Thinking
+
+We do not just code screens. We shape flows around the business questions users actually care about: sales, profit, stock, customers, orders, and daily operations.
+
+</td>
+<td width="50%" valign="top">
+
+### Demo-Ready Delivery
+
+Projects are prepared to be shown: live demos, admin previews, release installers, clear README files, screenshots, and practical testing notes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Ownership
+
+Frontend, backend, database, deployment, documentation, and QA are treated as one connected product, not disconnected tasks.
+
+</td>
+<td width="50%" valign="top">
+
+### Small-Business UX
+
+We build tools that feel simple for non-technical users while still giving owners useful control, visibility, and confidence.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,7 +150,6 @@ Multilingual e-commerce system for SARL BENSHOP Chaussettes.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=labssynova-coder&bg_color=0B1220&color=E5E7EB&line=00D5FF&point=2F80ED&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
-
 ---
 
 ## Connect
@@ -102,3 +161,5 @@ Multilingual e-commerce system for SARL BENSHOP Chaussettes.
 [Website](https://www.synovalabs.tech) · [GitHub Projects](https://github.com/labssynova-coder?tab=repositories) · [Live Portfolio](https://www.synovalabs.tech)
 
 </div>
+
+
