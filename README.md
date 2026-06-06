@@ -1,103 +1,166 @@
-﻿# synova labs
+﻿<div align="center">
+  <img src="assets/synova-labs-logo.png" width="180" alt="Synova Labs logo" />
+
+  <h1>Synova Labs</h1>
+  <h3>Full-stack product studio building SaaS, e-commerce, dashboards, APIs, and business automation tools.</h3>
+
+  <p>
+    <a href="https://www.synovalabs.tech"><img src="https://img.shields.io/badge/Website-synovalabs.tech-0B1220?style=for-the-badge&logo=google-chrome&logoColor=00D5FF" alt="Website" /></a>
+    <a href="https://github.com/labssynova-coder?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00D5FF" alt="Projects" /></a>
+    <img src="https://img.shields.io/badge/Bordj_Bou_Arreridj-Algeria-0B1220?style=for-the-badge&logo=googlemaps&logoColor=00D5FF" alt="Location" />
+  </p>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=700&color=00D5FF&center=true&vCenter=true&width=850&lines=We+build+software+that+looks+good+and+works+hard.;SaaS+products+%E2%80%A2+E-commerce+%E2%80%A2+Desktop+apps+%E2%80%A2+APIs;From+idea+to+demo+to+production-ready+release." alt="Typing SVG" />
+  </p>
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## Studio Snapshot
+
+**Synova Labs** is a full-stack development studio based in **Bordj Bou Arreridj, Algeria**.
+
+We build practical digital products for small businesses and modern teams: storefronts, admin dashboards, offline desktop tools, SaaS MVPs, APIs, and polished live demos.
+
+Our style is direct: understand the business, design the workflow, build the product, test the flows, document the handoff, and make it demo-ready.
+
+</td>
+<td width="42%" valign="top">
+
+## Focus Areas
+
+- SaaS MVPs and product dashboards
+- E-commerce storefronts and admin panels
+- Inventory, sales, and internal business tools
+- REST APIs, auth, databases, and integrations
+- GitHub Pages demos and release-ready docs
+- Desktop apps with local-first/offline storage
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Products
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### StockPulse
+
+**Offline inventory and sales desktop MVP** for small businesses.
+
+- Products, stock, purchases, sales
+- Reports, alerts, audit trail
+- Electron + TypeScript + SQLite
+
+[Live Demo](https://labssynova-coder.github.io/stockpulse/) · [Repo](https://github.com/labssynova-coder/stockpulse) · [Installer](https://github.com/labssynova-coder/stockpulse/releases/tag/v1.0.0)
+
+</td>
+<td width="33%" valign="top">
+
+### LJS — Luxury Jewelry Shop
+
+**Modern Django e-commerce platform** with storefront and admin experience.
+
+- Catalog, cart, wishlist, checkout
+- Blog and policy pages
+- Jazzmin admin + 62 tests
+
+[Storefront](https://labssynova-coder.github.io/LJS/) · [Admin](https://labssynova-coder.github.io/LJS/admin/) · [Repo](https://github.com/labssynova-coder/LJS)
+
+</td>
+<td width="33%" valign="top">
+
+### BENSHOP Chaussettes
+
+**Multilingual e-commerce system** for SARL BENSHOP Chaussettes.
+
+- Storefront, cart, orders
+- Admin dashboard
+- WhatsApp ordering flow
+
+[Storefront](https://labssynova-coder.github.io/benshop/) · [Admin](https://labssynova-coder.github.io/benshop/admin/) · [Repo](https://github.com/labssynova-coder/benshop)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech We Use
 
 <div align="center">
 
-# Synova Labs
-
-### Full-stack product studio building web platforms, SaaS tools, e-commerce systems, APIs, and offline business software.
-
-[![Website](https://img.shields.io/badge/Website-synovalabs.tech-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.synovalabs.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/labssynova-coder?tab=repositories)
-[![Location](https://img.shields.io/badge/Bordj_Bou_Arreridj-Algeria-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.synovalabs.tech)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,django,html,css,tailwind,sqlite,postgres,prisma,electron,docker,git,github,vercel,figma&perline=10" alt="Tech stack icons" />
 
 </div>
 
 ---
 
-## About
+## What Makes Our Work Different
 
-Synova Labs is a full-stack development studio based in **Bordj Bou Arreridj, Algeria**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-We design, build, test, and deploy complete digital products — from polished frontends to production-ready backends, admin panels, databases, automation workflows, and business dashboards.
+### Product Thinking
 
-Our focus is simple: **clean software, practical business value, and products that are ready to demo, sell, and ship.**
+We do not just code screens. We shape flows around the business questions users actually care about: sales, profit, stock, customers, orders, and daily operations.
+
+</td>
+<td width="50%" valign="top">
+
+### Demo-Ready Delivery
+
+Projects are prepared to be shown: live demos, admin previews, release installers, clear README files, screenshots, and practical testing notes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Ownership
+
+Frontend, backend, database, deployment, documentation, and QA are treated as one connected product, not disconnected tasks.
+
+</td>
+<td width="50%" valign="top">
+
+### Small-Business UX
+
+We build tools that feel simple for non-technical users while still giving owners useful control, visibility, and confidence.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What We Build
-
-| Area | What we deliver |
-|------|-----------------|
-| **SaaS Products** | MVPs, dashboards, billing-ready platforms, admin systems, analytics, onboarding flows |
-| **E-commerce** | Storefronts, carts, checkout, order management, admin panels, product catalogs |
-| **Business Tools** | Inventory systems, sales tracking, internal tools, reporting, workflow automation |
-| **APIs & Backends** | REST APIs, auth, database schemas, integrations, secure server-side logic |
-| **Frontend Experiences** | Responsive UI, product pages, landing pages, dashboards, animations, PWA-ready apps |
-| **Deployment & QA** | GitHub Pages demos, installers, release assets, test suites, deployment documentation |
-
----
-
-## Featured Work
-
-| Project | Type | Live Demo | Repository | Highlights |
-|---------|------|-----------|------------|------------|
-| **StockPulse** | Offline Inventory & Sales Desktop App | [Live Demo](https://labssynova-coder.github.io/stockpulse/) | [GitHub](https://github.com/labssynova-coder/stockpulse) | Electron desktop MVP, inventory, sales, purchases, reports, low-stock alerts, SQLite local storage |
-| **LJS — Luxury Jewelry Shop** | Django E-commerce Platform | [Storefront](https://labssynova-coder.github.io/LJS/) / [Admin](https://labssynova-coder.github.io/LJS/admin/) | [GitHub](https://github.com/labssynova-coder/LJS) | Luxury jewelry storefront, cart, wishlist, checkout, blog, Jazzmin admin, 62 tests |
-| **BENSHOP Chaussettes** | E-commerce Website & Admin Panel | [Storefront](https://labssynova-coder.github.io/benshop/) / [Admin](https://labssynova-coder.github.io/benshop/admin/) | [GitHub](https://github.com/labssynova-coder/benshop) | Multilingual sock store, cart, orders, WhatsApp ordering, admin dashboard, Express backend |
-| **Alliance Travel 34** | Travel Website | — | [GitHub](https://github.com/labssynova-coder/alliancetravel34) | Static travel/business website foundation |
-| **Glstore** | Store / Commerce System | — | [GitHub](https://github.com/labssynova-coder/Glstore) | TypeScript/Python commerce codebase exploration |
-
----
-
-## Tech Stack
+## Repository Overview
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=labssynova-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&icon_color=2F80ED&text_color=E5E7EB" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labssynova-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB" alt="Top languages" />
 
 </div>
 
 ---
 
-## How We Work
-
-- **Product-first thinking** — every feature should answer a real business need.
-- **Demo-ready delivery** — projects include live previews, screenshots, docs, or installable releases when possible.
-- **Full-stack ownership** — frontend, backend, database, deployment, and QA handled together.
-- **Security and reliability** — auth, validation, permissions, CSP, tests, and clean release workflows matter.
-- **Small-business friendly UX** — simple interfaces for users who need software to work, not feel complicated.
-
----
-
-## GitHub Activity
+## Connect
 
 <div align="center">
 
-![Synova Labs GitHub Stats](https://github-readme-stats.vercel.app/api?username=labssynova-coder&show_icons=true&theme=tokyonight&hide_border=true)
+**Have a SaaS idea, e-commerce project, dashboard, or internal business tool to build?**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labssynova-coder&layout=compact&theme=tokyonight&hide_border=true)
+[Website](https://www.synovalabs.tech) · [GitHub Projects](https://github.com/labssynova-coder?tab=repositories) · [Live Portfolio](https://www.synovalabs.tech)
 
 </div>
-
----
-
-## Contact
-
-- Website: [www.synovalabs.tech](https://www.synovalabs.tech)
-- GitHub: [@labssynova-coder](https://github.com/labssynova-coder)
-
-> Have an idea for a SaaS product, e-commerce system, admin dashboard, or business automation tool? Synova Labs can help turn it into a working product.
-
-<!-- profile-refresh: 2026-06-06 08:31 UTC -->
-
