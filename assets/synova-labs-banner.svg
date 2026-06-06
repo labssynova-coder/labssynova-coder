@@ -1,126 +1,75 @@
-﻿<svg width="1774" height="888" viewBox="0 0 1774 888" fill="none" xmlns="http://www.w3.org/2000/svg">
+﻿<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1774" y2="888" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#02040A"/>
-      <stop offset="0.48" stop-color="#030915"/>
-      <stop offset="1" stop-color="#02040A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#020617"/>
     </linearGradient>
-    <linearGradient id="blue" x1="235" y1="205" x2="565" y2="610" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#26F3FF"/>
-      <stop offset="0.42" stop-color="#09A8FF"/>
-      <stop offset="1" stop-color="#145CFF"/>
+    <linearGradient id="blue" x1="380" y1="90" x2="1080" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12D8FF"/>
+      <stop offset="0.5" stop-color="#168BFF"/>
+      <stop offset="1" stop-color="#1D4DFF"/>
     </linearGradient>
-    <linearGradient id="word" x1="575" y1="360" x2="1340" y2="460" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="0.46" stop-color="#E5E7EB"/>
-      <stop offset="0.62" stop-color="#27F3FF"/>
-      <stop offset="1" stop-color="#1074FF"/>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#2563EB"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#145CFF"/>
-      <stop offset="1" stop-color="#26F3FF"/>
-    </linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.02 0 0 0 0 0.6 0 0 0 0 1 0 0 0 0.85 0"/>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.75 0 0 0 0 1 0 0 0 0.65 0"/>
       <feBlend in="SourceGraphic"/>
     </filter>
-    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="28"/>
-    </filter>
-    <pattern id="grid" width="83" height="83" patternUnits="userSpaceOnUse">
-      <path d="M83 0H0V83" stroke="#12325B" stroke-opacity="0.30" stroke-width="1"/>
-      <circle cx="0" cy="0" r="3" fill="#0757C9" fill-opacity="0.55"/>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#1E3A5F" stroke-opacity="0.28" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1774" height="888" fill="url(#bg)"/>
-  <rect width="1774" height="888" fill="url(#grid)" opacity="0.72"/>
-  <ellipse cx="377" cy="446" rx="280" ry="155" fill="#046DFF" opacity="0.24" filter="url(#soft)"/>
-  <ellipse cx="1245" cy="285" rx="360" ry="155" fill="#034B9E" opacity="0.18" filter="url(#soft)"/>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <rect width="1600" height="520" fill="url(#grid)" opacity="0.65"/>
+  <circle cx="1240" cy="100" r="260" fill="#0284C7" opacity="0.14" filter="url(#glow)"/>
+  <circle cx="250" cy="430" r="240" fill="#1D4ED8" opacity="0.18" filter="url(#glow)"/>
 
-  <g stroke="#0B67FF" stroke-width="2" opacity="0.72" stroke-linecap="round">
-    <path d="M0 236L64 299H226"/>
-    <path d="M0 286L54 339H221"/>
-    <path d="M0 336L42 377H206"/>
-    <path d="M0 389H214"/>
-    <path d="M0 433H116"/>
-    <path d="M864 660H1040L1098 718H1274"/>
-    <path d="M934 692H1110L1168 750H1260"/>
-    <path d="M1120 230L1188 218L1234 171L1380 154"/>
-    <path d="M1040 270L1145 259L1190 213L1268 205"/>
-    <circle cx="116" cy="433" r="5" fill="#167BFF"/>
-    <circle cx="214" cy="389" r="4" fill="#23D8FF"/>
-    <circle cx="1098" cy="718" r="5" fill="#167BFF"/>
-    <circle cx="1188" cy="218" r="5" fill="#167BFF"/>
+  <g opacity="0.48" stroke="#38BDF8" stroke-width="2">
+    <path d="M1045 142H1368C1394 142 1415 163 1415 189V332C1415 358 1394 379 1368 379H1045C1019 379 998 358 998 332V189C998 163 1019 142 1045 142Z" fill="#03111F" fill-opacity="0.64"/>
+    <path d="M1038 205H1375" opacity="0.45"/>
+    <path d="M1068 250H1165"/>
+    <path d="M1068 294H1286" opacity="0.75"/>
+    <path d="M1068 338H1226" opacity="0.6"/>
+    <path d="M1245 243L1302 300L1360 222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <g opacity="0.58">
-    <text x="67" y="204" fill="#166BFF" font-family="Consolas, monospace" font-size="82" font-weight="700">&lt;/&gt;</text>
-    <g fill="#0554C9">
-      <circle cx="498" cy="39" r="3"/><circle cx="541" cy="56" r="3"/><circle cx="623" cy="78" r="3"/>
-      <circle cx="500" cy="103" r="3"/><circle cx="523" cy="103" r="3"/><circle cx="546" cy="103" r="3"/><circle cx="569" cy="103" r="3"/>
-      <circle cx="500" cy="126" r="3"/><circle cx="523" cy="126" r="3"/><circle cx="546" cy="126" r="3"/><circle cx="569" cy="126" r="3"/>
-      <circle cx="180" cy="662" r="3"/><circle cx="203" cy="662" r="3"/><circle cx="226" cy="662" r="3"/><circle cx="249" cy="662" r="3"/>
-      <circle cx="180" cy="685" r="3"/><circle cx="203" cy="685" r="3"/><circle cx="226" cy="685" r="3"/><circle cx="249" cy="685" r="3"/>
-    </g>
+  <g opacity="0.38" stroke="#60A5FA" stroke-width="3" stroke-linecap="round">
+    <path d="M185 134H312L365 187"/>
+    <path d="M185 386H343L404 325"/>
+    <path d="M1420 93H1302L1254 141"/>
+    <path d="M1422 428H1294L1241 375"/>
+    <circle cx="185" cy="134" r="8" fill="#38BDF8"/>
+    <circle cx="185" cy="386" r="8" fill="#2563EB"/>
+    <circle cx="1420" cy="93" r="8" fill="#38BDF8"/>
+    <circle cx="1422" cy="428" r="8" fill="#2563EB"/>
   </g>
 
   <g filter="url(#glow)">
-    <path d="M343 228H500L456 274H345L228 394L345 512H419L378 558H316L228 470L178 419L343 228Z" fill="url(#blue)"/>
-    <path d="M342 228H501L459 274H344L229 392L270 436L342 363H474L435 407H365L486 528L424 590H228L275 543H406L228 365L342 228Z" fill="url(#blue)"/>
-    <path d="M340 353H516L471 399H381L340 353Z" fill="url(#blue)"/>
-    <path d="M489 407L489 592H586L489 690H385L431 644H470L470 454L489 407Z" fill="url(#blue)"/>
-    <path d="M343 228H500L456 274H345L228 394" stroke="#58F5FF" stroke-width="3" opacity="0.9"/>
-    <path d="M229 392L270 436L342 363H474" stroke="#58F5FF" stroke-width="3" opacity="0.8"/>
+    <path d="M249 150H552L504 198H310L243 265L305 327H478L430 375H284L166 257L249 150Z" fill="url(#blue)"/>
+    <path d="M363 224H560L512 272H315L363 224Z" fill="url(#cyan)"/>
+    <path d="M518 327H632L514 445H185L233 397H493L518 327Z" fill="url(#blue)"/>
+    <path d="M642 150H866L818 198H642V150Z" fill="url(#cyan)"/>
+    <path d="M730 225H914L866 273H730V225Z" fill="url(#cyan)"/>
+    <path d="M780 327H836V397H1038L990 445H724L780 389V327Z" fill="url(#blue)"/>
   </g>
 
-  <g filter="url(#glow)">
-    <text x="575" y="437" fill="url(#word)" font-family="Orbitron, Rajdhani, Segoe UI, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="-3">Synova Labs</text>
-    <rect x="665" y="488" width="225" height="4" rx="2" fill="url(#line)"/>
-    <text x="663" y="560" fill="#F7F7F8" font-family="Rajdhani, Segoe UI, Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="17">Full-stack software studio</text>
-  </g>
+  <text x="620" y="208" fill="#E5F7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Synova Labs</text>
+  <text x="624" y="270" fill="#8EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650">Full-stack software studio</text>
+  <text x="624" y="324" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">SaaS • E-commerce • Dashboards • APIs • Desktop Apps</text>
 
-  <g opacity="0.86" stroke="#0977F7" stroke-width="2">
-    <rect x="1256" y="98" width="464" height="280" rx="18" fill="#04101F" fill-opacity="0.54"/>
-    <path d="M1256 145H1720" opacity="0.5"/>
-    <circle cx="1278" cy="130" r="5" fill="#0B75FF"/><circle cx="1296" cy="130" r="5" fill="#0B75FF"/><circle cx="1314" cy="130" r="5" fill="#0B75FF"/>
-    <path d="M1277 256L1306 220L1328 236L1372 189L1418 224L1451 196L1493 153" stroke="#088BFF" stroke-width="4" fill="none"/>
-    <circle cx="1408" cy="193" r="7" fill="#10D7FF"/><circle cx="1493" cy="153" r="7" fill="#1E2BFF"/>
-    <rect x="1543" y="173" width="16" height="63" fill="#093478"/><rect x="1570" y="159" width="16" height="77" fill="#0A4EA2"/><rect x="1597" y="155" width="16" height="81" fill="#0B6DD8"/><rect x="1624" y="133" width="16" height="103" fill="#089DFF"/><rect x="1651" y="114" width="16" height="122" fill="#0C55B9"/>
-    <circle cx="1570" cy="319" r="34" fill="none" stroke="#1558FF" stroke-width="12"/><path d="M1570 285A34 34 0 0 1 1604 319" stroke="#10D7FF" stroke-width="12"/>
-    <path d="M1625 293H1692M1625 315H1686M1625 337H1669" opacity="0.65"/>
+  <g transform="translate(624 360)">
+    <rect width="120" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="22" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">React</text>
+    <rect x="134" width="150" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="156" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">TypeScript</text>
+    <rect x="298" width="124" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="321" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Django</text>
+    <rect x="436" width="126" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="459" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Electron</text>
   </g>
-
-  <g opacity="0.88" stroke="#09A8FF" stroke-width="3">
-    <circle cx="1335" cy="520" r="13" fill="#03111F"/><circle cx="1440" cy="420" r="15" fill="#03111F"/><circle cx="1548" cy="511" r="12" fill="#03111F"/><circle cx="1377" cy="563" r="10" fill="#03111F"/><circle cx="1519" cy="581" r="10" fill="#03111F"/>
-    <path d="M1335 520H1404L1440 420L1502 477L1548 511"/>
-    <path d="M1404 520L1377 563M1440 420L1519 581" opacity="0.65"/>
-    <path d="M1404 459L1444 435L1483 459V526L1444 550L1404 526V459Z" fill="#03111F"/>
-    <text x="1418" y="520" fill="#2BEAFF" font-family="Consolas, monospace" font-size="34" font-weight="700">API</text>
-  </g>
-
-  <g opacity="0.8" stroke="#0B75FF" stroke-width="2">
-    <rect x="1586" y="437" width="146" height="144" rx="16" fill="#03111F" fill-opacity="0.62"/>
-    <path d="M1624 487H1689L1676 535H1640L1624 487Z" fill="none" stroke="#089DFF" stroke-width="5"/>
-    <path d="M1615 473H1630L1640 487" stroke="#089DFF" stroke-width="5"/>
-    <circle cx="1643" cy="553" r="6" fill="#089DFF"/><circle cx="1681" cy="553" r="6" fill="#089DFF"/>
-  </g>
-
-  <g opacity="0.85" stroke="#0B75FF" stroke-width="2">
-    <rect x="1268" y="592" width="398" height="217" rx="18" fill="#04101F" fill-opacity="0.62"/>
-    <path d="M1324 640L1364 620L1405 640L1364 662L1324 640Z" fill="#1EE7FF" opacity="0.95"/>
-    <path d="M1324 640V688L1364 710V662L1324 640Z" fill="#089DFF" opacity="0.85"/>
-    <path d="M1405 640V688L1364 710V662L1405 640Z" fill="#145CFF" opacity="0.85"/>
-    <path d="M1420 635H1486M1420 654H1543M1420 673H1584M1420 692H1510M1320 735H1390M1320 756H1368M1570 655H1640M1570 681H1633" opacity="0.45"/>
-    <text x="1420" y="747" fill="#15DFFF" font-family="Inter, Segoe UI, Arial" font-size="26" font-weight="800">120</text>
-    <text x="1504" y="755" fill="#15DFFF" font-family="Inter, Segoe UI, Arial" font-size="26" font-weight="800">32</text>
-    <text x="1596" y="765" fill="#145CFF" font-family="Inter, Segoe UI, Arial" font-size="26" font-weight="800">8</text>
-    <text x="1420" y="774" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial" font-size="13">Products</text>
-    <text x="1498" y="783" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial" font-size="13">Low Stock</text>
-    <text x="1585" y="794" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial" font-size="13">Orders</text>
-    <path d="M1425 802H1585" stroke="url(#line)" stroke-width="4"/>
-  </g>
-
-  <rect x="0" y="0" width="1774" height="888" fill="url(#bg)" opacity="0.03"/>
 </svg>
