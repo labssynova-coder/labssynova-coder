@@ -20,7 +20,15 @@
 
 ### Building practical software for real businesses
 
-<img src="https://github-profile-trophy.vercel.app/?username=labssynova-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+<table>
+<tr>
+<td align="center"><b>3+</b><br/>Live product demos</td>
+<td align="center"><b>SaaS</b><br/>MVPs and dashboards</td>
+<td align="center"><b>E-commerce</b><br/>Storefronts and admin panels</td>
+<td align="center"><b>Offline</b><br/>Desktop business tools</td>
+<td align="center"><b>Full-stack</b><br/>Frontend to deployment</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,19 +109,6 @@ Our style is direct: understand the business, design the workflow, build the pro
 </td>
 </tr>
 </table>
-<div align="center">
-
-<a href="https://github.com/labssynova-coder/stockpulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=stockpulse&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="StockPulse repository card" />
-</a>
-<a href="https://github.com/labssynova-coder/LJS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=LJS&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="LJS repository card" />
-</a>
-<a href="https://github.com/labssynova-coder/benshop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=labssynova-coder&repo=benshop&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB&icon_color=2F80ED" alt="BENSHOP repository card" />
-</a>
-
-</div>
 ---
 
 ## Tech We Use
@@ -169,8 +164,6 @@ We build tools that feel simple for non-technical users while still giving owner
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=labssynova-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&icon_color=2F80ED&text_color=E5E7EB" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labssynova-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=00D5FF&text_color=E5E7EB" alt="Top languages" />
 <img height="165" src="https://streak-stats.demolab.com?user=labssynova-coder&theme=tokyonight&hide_border=true&background=0B1220&ring=00D5FF&fire=2F80ED&currStreakLabel=E5E7EB" alt="GitHub streak" />
 
 </div>
@@ -192,6 +185,7 @@ We build tools that feel simple for non-technical users while still giving owner
 [Website](https://www.synovalabs.tech) · [GitHub Projects](https://github.com/labssynova-coder?tab=repositories) · [Live Portfolio](https://www.synovalabs.tech)
 
 </div>
+
 
 
 
