@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=700&color=00D5FF&center=true&vCenter=true&width=850&lines=We+build+software+that+looks+good+and+works+hard.;SaaS+products+%E2%80%A2+E-commerce+%E2%80%A2+Desktop+apps+%E2%80%A2+APIs;From+idea+to+demo+to+production-ready+release." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=700&color=00D5FF&center=true&vCenter=true&width=850&lines=We+build+quality+software%2C+ship+fast%2C+and+stay+reliable.;Build+%E2%80%A2+Automate+%E2%80%A2+Scale;Quality+delivery+for+serious+business+tools." alt="Typing SVG" />
   </p>
 </div>
 
