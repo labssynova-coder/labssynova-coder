@@ -1,8 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/synova-labs-logo.png" width="180" alt="Synova Labs logo" />
-
-  <h1>Synova Labs</h1>
-  <h3>Full-stack product studio building SaaS, e-commerce, dashboards, APIs, and business automation tools.</h3>
+  <img src="assets/synova-labs-banner.svg" width="100%" alt="Synova Labs — Full-stack software studio" />
 
   <p>
     <a href="https://www.synovalabs.tech"><img src="https://img.shields.io/badge/Website-synovalabs.tech-0B1220?style=for-the-badge&logo=google-chrome&logoColor=00D5FF" alt="Website" /></a>
@@ -164,3 +161,4 @@ We build tools that feel simple for non-technical users while still giving owner
 [Website](https://www.synovalabs.tech) · [GitHub Projects](https://github.com/labssynova-coder?tab=repositories) · [Live Portfolio](https://www.synovalabs.tech)
 
 </div>
+

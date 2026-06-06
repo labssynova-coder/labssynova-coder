@@ -1,0 +1,75 @@
+﻿<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="380" y1="90" x2="1080" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12D8FF"/>
+      <stop offset="0.5" stop-color="#168BFF"/>
+      <stop offset="1" stop-color="#1D4DFF"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.75 0 0 0 0 1 0 0 0 0.65 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#1E3A5F" stroke-opacity="0.28" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <rect width="1600" height="520" fill="url(#grid)" opacity="0.65"/>
+  <circle cx="1240" cy="100" r="260" fill="#0284C7" opacity="0.14" filter="url(#glow)"/>
+  <circle cx="250" cy="430" r="240" fill="#1D4ED8" opacity="0.18" filter="url(#glow)"/>
+
+  <g opacity="0.48" stroke="#38BDF8" stroke-width="2">
+    <path d="M1045 142H1368C1394 142 1415 163 1415 189V332C1415 358 1394 379 1368 379H1045C1019 379 998 358 998 332V189C998 163 1019 142 1045 142Z" fill="#03111F" fill-opacity="0.64"/>
+    <path d="M1038 205H1375" opacity="0.45"/>
+    <path d="M1068 250H1165"/>
+    <path d="M1068 294H1286" opacity="0.75"/>
+    <path d="M1068 338H1226" opacity="0.6"/>
+    <path d="M1245 243L1302 300L1360 222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g opacity="0.38" stroke="#60A5FA" stroke-width="3" stroke-linecap="round">
+    <path d="M185 134H312L365 187"/>
+    <path d="M185 386H343L404 325"/>
+    <path d="M1420 93H1302L1254 141"/>
+    <path d="M1422 428H1294L1241 375"/>
+    <circle cx="185" cy="134" r="8" fill="#38BDF8"/>
+    <circle cx="185" cy="386" r="8" fill="#2563EB"/>
+    <circle cx="1420" cy="93" r="8" fill="#38BDF8"/>
+    <circle cx="1422" cy="428" r="8" fill="#2563EB"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M249 150H552L504 198H310L243 265L305 327H478L430 375H284L166 257L249 150Z" fill="url(#blue)"/>
+    <path d="M363 224H560L512 272H315L363 224Z" fill="url(#cyan)"/>
+    <path d="M518 327H632L514 445H185L233 397H493L518 327Z" fill="url(#blue)"/>
+    <path d="M642 150H866L818 198H642V150Z" fill="url(#cyan)"/>
+    <path d="M730 225H914L866 273H730V225Z" fill="url(#cyan)"/>
+    <path d="M780 327H836V397H1038L990 445H724L780 389V327Z" fill="url(#blue)"/>
+  </g>
+
+  <text x="620" y="208" fill="#E5F7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Synova Labs</text>
+  <text x="624" y="270" fill="#8EEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="650">Full-stack software studio</text>
+  <text x="624" y="324" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">SaaS • E-commerce • Dashboards • APIs • Desktop Apps</text>
+
+  <g transform="translate(624 360)">
+    <rect width="120" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="22" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">React</text>
+    <rect x="134" width="150" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="156" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">TypeScript</text>
+    <rect x="298" width="124" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="321" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Django</text>
+    <rect x="436" width="126" height="34" rx="17" fill="#0B1220" stroke="#1E9BFF"/>
+    <text x="459" y="23" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="700">Electron</text>
+  </g>
+</svg>
